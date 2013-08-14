@@ -1,0 +1,3 @@
+[submodule "Cycloa"]
+	path = Cycloa
+	url = https://github.com/ledyba/Cycloa.git
