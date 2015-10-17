@@ -1,5 +1,5 @@
 # Summary
 
 * [エミュレータは、ソフトなマホウ。](README.md)
-* [First Chapter](chapter1.md)
+* [必要なものを揃えなきゃ。](chapter1.md)
 
